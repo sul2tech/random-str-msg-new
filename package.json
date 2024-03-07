@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-new",
+  "version": "1.0.0",
+  "description": "random-string messages",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sul2tech/random-str-msg-new.git"
+  },
+  "author": "Jonathan Hernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sul2tech/random-str-msg-new/issues"
+  },
+  "homepage": "https://github.com/sul2tech/random-str-msg-new#readme",
+  "bin": {
+    "random-str-msg-new": "./bin/global.js"
+  },
+
+  "preferGlobal":  true
+}
